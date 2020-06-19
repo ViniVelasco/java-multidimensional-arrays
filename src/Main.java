@@ -14,7 +14,9 @@ public class Main {
 			{7}
 		};
 		
+		System.out.println("Length row 1: " + a[0].length);
 		System.out.println("Length row 2: " + a[1].length);
+		System.out.println("Length row 2: " + a[2].length);
 		
 		for(int i = 0; i < b.length; i++) {
 			for(int j = 0; j < b[i].length; j++) {
