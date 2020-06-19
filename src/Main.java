@@ -6,6 +6,7 @@ public class Main {
 		int[][] a = new int[3][4]; //3 LINES 4 COLUMNS
 		
 		String[][][] data = new String[3][4][2]; //3D array (24 elements (3 * 4 * 2)
+		System.out.println("length: " + data.length);
 		
 		//INITIALIZANG 2D array
 		int[][] b = {
